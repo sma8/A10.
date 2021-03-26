@@ -8,11 +8,7 @@ body {
 header img {
 	float: left;
 }
-header{
-	padding-top: 1.5em;
-	padding-bottom: 2em;
-	border-bottom: 3px solid #931420;
-}
+
 
 header h2 {
 	font-size: 170%;
